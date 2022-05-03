@@ -4,4 +4,15 @@ A simple java chat application that uses socket programming technology. The appl
 
 ![Screenshot1](https://raw.githubusercontent.com/0MSB/SimpleChatApp/main/Screenshots/ss.png)
 
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot2](https://github.com/0MSB/SimpleChatApp/blob/main/Screenshots/ss2.png)
